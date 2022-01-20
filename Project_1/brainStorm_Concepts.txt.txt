@@ -1,0 +1,21 @@
+Project 1 Web Extension project brainstorm.
+Entertainment spectrum ?
+1. A quick finder tool that can pick html rgb colors?
+- cuts out the google search for a color picker.
+- easily accessible to change code on github webbroswer ?
+
+2. Count Down timer, stop watch for virtual games on zoom/discord?
+- can be used for playing a group game that is hosted on zoom on discord,
+where everyone can access a countdown timer/stop watch directly from their browser via the extension. 
+Can be used For games such as: 
+Charades.
+Minute to Win it.
+Scavanger Hunts.
+Name that Song/Tune/Movie.
+
+Can be as simple as a countdown timer while taking a timed quiz that does not have countdown timer.
+
+What to implement into the countdown time/stopwatch
+- Ticking noise that can be turned off or on.
+- Change the visuals of the timer for a more personal touch.
+- A jingle to be played when time is up. 
